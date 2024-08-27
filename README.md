@@ -4,12 +4,10 @@
 
 
 
-
 ### To Get ARISHASHAISTA's TARBALL:
 ```
 wget -c https://os.vlsm.org/Log/arishashaista.tar.xz.txt
 
 ```
-
 
 
