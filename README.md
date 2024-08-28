@@ -1,5 +1,5 @@
 # OS242: ARISHASHAISTA
-[TIPS](https://arishashaista.github.io/os242/TIPS/) — [LINKS](https://arishashaista.github.io/os242/LINKS/) — [LOG](https://arishashaista.github.io/os242/TXT/mylog.txt) — [GitHub](https://github.com/arishashaista/os242/)
+[TIPS](TIPS/) — [LINKS](LINKS/) — [LOG](TXT/mylog.txt) — [GitHub](https://github.com/arishashaista/os242/)
 
 <br />
 
