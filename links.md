@@ -32,4 +32,10 @@ This video provides an insightful look into the concepts of processes and concur
 This video illustrates the principles of process synchronization in an easy-to-understand manner.
 
 10. [Quick explanation: Critical section](https://www.youtube.com/watch?v=BSX1YEoCVgA) <br>
-This quick video delivers a clear and detailed explanation of the critical section concept in computing. 
+This quick video delivers a clear and detailed explanation of the critical section concept computing. 
+
+11. [60 Essential Linux Command](https://www.hostinger.com/tutorials/linux-commands) <br>
+The article provides an overview of essential Linux commands, offering a comprehensive guide for beginners, including file manipulation, system monitoring, and process control, along with a downloadable cheat sheet for quick reference.
+
+12. [Learn the Basics of the Linux Operating System](https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/) <br>
+The guide covers the fundamentals of Linux, such as installation, file management, system information, networking, and basic terminal commands, providing a complete crash course for beginners.
