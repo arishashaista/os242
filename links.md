@@ -39,3 +39,5 @@ The article provides an overview of essential Linux commands, offering a compreh
 
 12. [Learn the Basics of the Linux Operating System](https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/) <br>
 The guide covers the fundamentals of Linux, such as installation, file management, system information, networking, and basic terminal commands, providing a complete crash course for beginners.
+
+13. [How to Mount and Unmount Filesystem / Partition in Linux (Mount/Umount Command Examples)] (https://www.thegeekstuff.com/2013/01/mount-umount-examples/) An article provides practical examples for mounting filesystems, managing read/write permissions, remounting existing partitions, mounting ISO images, and forcefully unmounting busy filesystems. It offers detailed command examples and techniques for handling filesystem management effectively.
