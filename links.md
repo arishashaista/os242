@@ -41,3 +41,9 @@ The article provides an overview of essential Linux commands, offering a compreh
 The guide covers the fundamentals of Linux, such as installation, file management, system information, networking, and basic terminal commands, providing a complete crash course for beginners.
 
 13. [How to Mount and Unmount Filesystem / Partition in Linux (Mount/Umount Command Examples)] (https://www.thegeekstuff.com/2013/01/mount-umount-examples/) An article provides practical examples for mounting filesystems, managing read/write permissions, remounting existing partitions, mounting ISO images, and forcefully unmounting busy filesystems. It offers detailed command examples and techniques for handling filesystem management effectively.
+
+14. [Addressing Modes] (https://www.geeksforgeeks.org/addressing-modes/) Explains various types of addressing modes such as immediate, register, direct, indirect, and indexed addressing.
+
+15. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) Explains the concept of memory management, including paging and segmentation.
+
+16. [Working with Shared Libraries | Set 1](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/) Explains what shared libraries are, their benefits such as memory savings and easier maintenance.
