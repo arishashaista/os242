@@ -47,3 +47,5 @@ The guide covers the fundamentals of Linux, such as installation, file managemen
 15. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) Explains the concept of memory management, including paging and segmentation.
 
 16. [Working with Shared Libraries | Set 1](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/) Explains what shared libraries are, their benefits such as memory savings and easier maintenance.
+
+17. [Memory Allocation](https://nordvpn.com/cybersecurity/glossary/memory-allocation/) Explains about memory allocation is the process by which operating systems assign and manage memory resources for programs using static and dynamic methods to ensure efficient and secure system performance.
