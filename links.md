@@ -49,3 +49,7 @@ The guide covers the fundamentals of Linux, such as installation, file managemen
 16. [Working with Shared Libraries | Set 1](https://www.geeksforgeeks.org/working-with-shared-libraries-set-1/) Explains what shared libraries are, their benefits such as memory savings and easier maintenance.
 
 17. [Memory Allocation](https://nordvpn.com/cybersecurity/glossary/memory-allocation/) Explains about memory allocation is the process by which operating systems assign and manage memory resources for programs using static and dynamic methods to ensure efficient and secure system performance.
+
+18. [Introduction to Docusaurus](https://docusaurus.io/docs) Provides guidance on using Docusaurus.
+
+19. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) Explains how fork is used to create a new process, detailing how it duplicates the calling process to create a child process, which then runs concurrently with the original process.
