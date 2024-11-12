@@ -53,3 +53,6 @@ This video illustrates the principles of process synchronization in an easy-to-u
 
 19. [Quick explanation: Critical section](https://www.youtube.com/watch?v=BSX1YEoCVgA) <br>
 This quick video delivers a clear and detailed explanation of the critical section concept computing.
+
+20. [Linux From Scratch 12.2 - 8.3. GCC-14.2.0](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=8) <br>
+The video guiding me through the process of building a custom Linux system from the ground up, recommended for beginner.
